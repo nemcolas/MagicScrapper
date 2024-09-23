@@ -1,0 +1,17 @@
+C:\Users\nimar\RiderProjects\CP1\CP1\bin\Debug\net8.0\CP1.exe
+C:\Users\nimar\RiderProjects\CP1\CP1\bin\Debug\net8.0\CP1.deps.json
+C:\Users\nimar\RiderProjects\CP1\CP1\bin\Debug\net8.0\CP1.runtimeconfig.json
+C:\Users\nimar\RiderProjects\CP1\CP1\bin\Debug\net8.0\CP1.dll
+C:\Users\nimar\RiderProjects\CP1\CP1\bin\Debug\net8.0\CP1.pdb
+C:\Users\nimar\RiderProjects\CP1\CP1\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\nimar\RiderProjects\CP1\CP1\obj\Debug\net8.0\CP1.csproj.AssemblyReference.cache
+C:\Users\nimar\RiderProjects\CP1\CP1\obj\Debug\net8.0\CP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nimar\RiderProjects\CP1\CP1\obj\Debug\net8.0\CP1.AssemblyInfoInputs.cache
+C:\Users\nimar\RiderProjects\CP1\CP1\obj\Debug\net8.0\CP1.AssemblyInfo.cs
+C:\Users\nimar\RiderProjects\CP1\CP1\obj\Debug\net8.0\CP1.csproj.CoreCompileInputs.cache
+C:\Users\nimar\RiderProjects\CP1\CP1\obj\Debug\net8.0\CP1.csproj.Up2Date
+C:\Users\nimar\RiderProjects\CP1\CP1\obj\Debug\net8.0\CP1.dll
+C:\Users\nimar\RiderProjects\CP1\CP1\obj\Debug\net8.0\refint\CP1.dll
+C:\Users\nimar\RiderProjects\CP1\CP1\obj\Debug\net8.0\CP1.pdb
+C:\Users\nimar\RiderProjects\CP1\CP1\obj\Debug\net8.0\CP1.genruntimeconfig.cache
+C:\Users\nimar\RiderProjects\CP1\CP1\obj\Debug\net8.0\ref\CP1.dll

@@ -1,0 +1,1792 @@
+Nome;Descrição;Custo
+First Legion Snowtrooper;
+                                        Cost:
+                                    2
+                                ;2
+Disarm;
+                                        Cost:
+                                    1
+                                ;1
+Director Krennic, Aspiring to Authority;
+                                    Restore 2 (When this unit attacks, heal 2 damage from your base.) ;5
+Armed to the Teeth;
+                                        Cost:
+                                    2
+                                ;2
+Reputable Hunter;
+                                        Cost:
+                                    3
+                                ;3
+Bombing Run;
+                                        Cost:
+                                    5
+                                ;5
+Gor, Grievous's Pet;
+                                    Exploit 3;12
+Darth Vader, Commanding the First Legion;
+                                    Ambush;7
+Ruthless Assassin;
+                                        Cost:
+                                    2
+                                ;2
+Hondo Ohnaka, That's Good Business;
+                                    Raid 1 (This unit gets +1/+0 while attaking.);6
+Ma Klounkee;
+                                        Cost:
+                                    1
+                                ;1
+Wroshyr Tree Tender;
+                                        Cost:
+                                    3
+                                ;3
+Restored ARC-170;
+                                        Cost:
+                                    2
+                                ;2
+Fifth Brother, Fear Hunter;
+                                    This unit gains Raid 1 for each damage on him. (He gets +1/+0 while attacking for each damage on him.);3
+Iden Versio, Inferno Squad Commander;
+                                    Shielded (When you deploy this leader, give her a Shield token.);6
+Shoot First;
+                                        Cost:
+                                    1
+                                ;1
+Death Mark;
+                                        Cost:
+                                    2
+                                ;2
+Smoke and Cinders;
+                                        Cost:
+                                    5
+                                ;5
+Kihraxz Heavy Fighter;
+                                        Cost:
+                                    4
+                                ;4
+Chirrut Îmwe, One with the Force;
+                                    Action [[tap]]: Give a unit +0/+2 for this phase.
+                                ;5
+Blizzard Assault AT-AT;
+                                        Cost:
+                                    8
+                                ;8
+Moff Gideon, Formidable Commander;
+                                    Action [tap]: Attack with a unit that costs 3 or less. If it's attacking a unit, it gets +1/+0 for this attack.
+                                ;5
+Bounty Posting;
+                                        Cost:
+                                    1
+                                ;1
+Yoda, Old Master;
+                                    Restore 2 (When this unit attacks, heal 2 damage from your base.);3
+Niima Outpost Constables;
+                                        Cost:
+                                    4
+                                ;4
+Imperial Interceptor;
+                                        Cost:
+                                    4
+                                ;4
+Emperor Palpatine, Galactic Ruler;
+                                    When Deployed: Take control of a damaged non-leader unit.;8
+Swoop Down;
+                                        Cost:
+                                    1
+                                ;1
+Asteroid Sanctuary;
+                                        Cost:
+                                    2
+                                ;2
+Vambrace Flamethrower;
+                                        Cost:
+                                    3
+                                ;3
+Discerning Veteran;
+                                        Cost:
+                                    5
+                                ;5
+Chewbacca, Walking Carpet;
+                                    Sentinel (Units in this arena can't attack your non-Sentinel units or your base.);7
+Luke Skywalker, Faithful Friend;
+                                    On Attack: You may give another unit a shield token
+                                ;6
+Relentless;
+                                    The first event played by each opponent each round loses all abilities.
+                                ;9
+Forced Surrender;
+                                        Cost:
+                                    6
+                                ;6
+Mystic Reflection;
+                                        Cost:
+                                    1
+                                ;1
+Boba Fett, Daimyo;
+                                    Each other friendly unit that has 1 or more Keywords gets +1/+0
+                                ;6
+Kanan Jarrus, Revealed Jedi;
+                                    On Attack: You may discard 1 card from the defending player's deck for each friendly Spectre unit. Heal 1 damage from your base for each different aspect among the discarded cards.
+                                ;4
+Survivors' Gauntlet;
+                                        Cost:
+                                    5
+                                ;5
+Seventh Sister, Implacable Inquisitor;
+                                    Saboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.);5
+Grand Moff Tarkin, Oversector Governor;
+                                    On Attack: You may give an Experience token to another IMPERIAL unit.
+                                ;5
+Relentless Pursuit;
+                                        Cost:
+                                    3
+                                ;3
+Sneak Attack;
+                                        Cost:
+                                    2
+                                ;2
+Desperate Attack;
+                                        Cost:
+                                    1
+                                ;1
+Bounty Hunter's Quarry;
+                                        Cost:
+                                    1
+                                ;1
+Leia Organa, Alliance General;
+                                    Raid 1 (This unit gets +1/+0 while attacking.);5
+Cassian Andor, Dedicated to the Rebellion;
+                                    Saboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.);6
+ISB Agent;
+                                        Cost:
+                                    1
+                                ;1
+Imprisoned;
+                                        Cost:
+                                    2
+                                ;2
+Devastator, Inescapable;
+                                    Sentinel;10
+Vigilant Honor Guards;
+                                        Cost:
+                                    5
+                                ;5
+Hunter, Outcast Sergeant;
+                                    Action [1, [tap]]: Reveal a resource you control, if it shares a name with a friendly unique unit, return the resource to its owner's hand and put the top card of your deck into play as a resource.
+                                ;7
+Evacuate;
+                                        Cost:
+                                    6
+                                ;6
+Hera Syndulla, Spectre Two;
+                                    Ignore the aspect penalty on Spectre cards you play.;6
+Legal Authority;
+                                        Cost:
+                                    2
+                                ;2
+Detention Block Rescue;
+                                        Cost:
+                                    3
+                                ;3
+Ruthless Raider;
+                                        Cost:
+                                    6
+                                ;6
+Vigilant Pursuit Craft;
+                                        Cost:
+                                    5
+                                ;5
+Darth Vader, Dark Lord of the Sith;
+                                    On Attack: You may deal 2 damage to a unit.
+                                ;7
+Surprise Strike;
+                                        Cost:
+                                    2
+                                ;2
+Enforced Loyalty;
+                                        Cost:
+                                    2
+                                ;2
+Sabine Wren, Galvanized Revolutionary;
+                                    On Attack: Deal 1 damage to each enemy base.
+                                ;4
+The Ghost, Spectre Home Base;
+                                    Shielded (When you play this unit, give it a Shield token.);6
+Bib Fortuna, Jabba's Majordomo;
+                                    Shielded (When you play this unit, give him a Shield token.);2
+Bail Organa, Rebel Councilor;
+                                    Action [tap]: Give an Experience token to another friendly unit.
+                                ;1
+Obi-Wan Kenobi;
+                                    Sentinel (Units in this arena can't attack your non-Sentinel units or your base.);6
+Bossk, Hunting His Prey;
+                                    When you collect a Bounty: You may collect that Bounty again. Use this ability only once each round.
+                                ;5
+The Emperor's Legion;
+                                        Cost:
+                                    2
+                                ;2
+Price on Your Head;
+                                        Cost:
+                                    2
+                                ;2
+Emperor Palpatine;
+                                    Overwhelm (When attack an enemy unit, deal excess damage to the opponent's base.);8
+Han Solo, Audacious Smuggler;
+                                    On Attack: Put the top card of your deck into play as a resource and ready it. At the start of the next action phase, defeat a resource you control.
+                                ;6
+Grand Inquisitor, Hunting the Jedi;
+                                    On Attack: You may deal 1 damage to another friendly unit with 3 or less power and ready it.
+                                ;6
+Pillage;
+                                        Cost:
+                                    4
+                                ;4
+Fenn Rau, Protector of Concord Dawn;
+                                    When Played: You may play an upgrade from your hand. It costs 2 less.;6
+Fallen Lightsaber;
+                                        Cost:
+                                    3
+                                ;3
+Incinerator Trooper;
+                                        Cost:
+                                    2
+                                ;2
+Outmaneuver;
+                                        Cost:
+                                    3
+                                ;3
+Cartel Spacer;
+                                        Cost:
+                                    2
+                                ;2
+Battlefield Marine;
+                                        Power:
+                                    3
+                                ;2
+Luke Skywalker, Jedi Knight;
+                                    Restore 3;7
+Seventh Fleet Defender;
+                                        Cost:
+                                    3
+                                ;3
+Endless Legions;
+                                        Cost:
+                                    14
+                                ;14
+Jedi Lightsaber;
+                                        Cost:
+                                    3
+                                ;3
+Boba Fett, Collecting the bounty;
+                                    When this unit completes an attack: If an enemy unit let play this phase, ready up to 2 resources.
+                                ;5
+Jyn Erso, Resisting Oppression;
+                                    When a friendly unit is attacking, the defender gets -1/-0.
+                                ;6
+Don't Get Cocky;
+                                        Cost:
+                                    4
+                                ;4
+Vader's Lightsaber;
+                                        Cost:
+                                    2
+                                ;2
+The Darksaber;
+                                        Cost:
+                                    4
+                                ;4
+Bravado;
+                                        Cost:
+                                    5
+                                ;5
+IG-88 Ruthless Bounty Hunter;
+                                    Each other friendly unit gains Raid 1. (They get +1/+0 while attacking.)
+                                ;5
+Public Enemy;
+                                        Cost:
+                                    0
+                                ;0
+Kylo Ren, Rash and Deadly;
+                                    This unit gets -1/-0 for each card in your hand.
+                                ;4
+Overwhelming Barrage;
+                                        Cost:
+                                    5
+                                ;5
+Waylay;
+                                        Cost:
+                                    3
+                                ;3
+Black Sun Starfighter;
+                                        Cost:
+                                    3
+                                ;3
+Force Lightning;
+                                        Cost:
+                                    1
+                                ;1
+Boba Fett, Disintegrator;
+                                    On Attack: If this unit is attacking an exhausted unit that didn't enter play this round, deal 3 damage to the defender.
+                                ;3
+The Force Is With Me;
+                                        Cost:
+                                    4
+                                ;4
+Gamorrean Retainer;
+                                        Cost:
+                                    2
+                                ;2
+Grand Admiral Thrawn, Patient and Insightful;
+                                    When the action phase starts: Look at the top card of each player's deck.;6
+Top Target;
+                                        Cost:
+                                    1
+                                ;1
+Han Solo, Worth the Risk;
+                                    Action: Play a unit from your hand. It costs 1 less. Deal 2 damage to it.
+                                ;5
+SpecForce Soldier;
+                                        Cost:
+                                    1
+                                ;1
+Outflank;
+                                        Cost:
+                                    1
+                                ;1
+Change of Heart;
+                                        Cost:
+                                    6
+                                ;6
+Security Complex;
+                                        Health:
+                                    25
+                                ;
+Dagobah Swamp;
+                                                Dagobah
+
+                                ;
+Kintan Intimidator;
+                                        Cost:
+                                    1
+                                ;1
+Foundling;
+                                        Cost:
+                                    1
+                                ;1
+Alliance Dispatcher;
+                                        Cost:
+                                    1
+                                ;1
+Bo-Katan Kryze, Princess in Exile;
+                                    On Attack: You may deal 1 damage to a unit. If you attacked with another Mandalorian unit this phase, you may deal 1 damage to a unit. (The same unit or a different unit.)
+                                ;6
+Admiral Motti;
+                                    When Defeated: You may ready a [villainy] unit.
+                                ;2
+Toro Calican, Ambitious Upstart;
+                                    When you play another Bounty Hunter unit: You may deal 1 damage to it. If you do, ready this unit. Use this ability only once each round.
+                                ;3
+Force Choke;
+                                        Cost:
+                                    2
+                                ;2
+Bendu, The One In The Middle;
+                                    Sentinel (Units in this arena can't attack your non-Sentinel units or your base.);6
+Bounty Hunter Crew;
+                                        Cost:
+                                    6
+                                ;6
+Weequay Pirate Gang;
+                                        Cost:
+                                    4
+                                ;4
+Administrator's Tower;
+                                                Cloud City
+
+                                ;
+Cad Bane, He who needs no introduction;
+                                    Raid 2 (This unit gets +2/+0 while attacking.);6
+Mandalorian Armor;
+                                        Cost:
+                                    2
+                                ;2
+Green Squadron A-Wing;
+                                        Cost:
+                                    2
+                                ;2
+TIE/ln Fighter;
+                                        Power:
+                                    2
+                                ;1
+Timely Intervention;
+                                        Cost:
+                                    1
+                                ;1
+Capital City;
+                                                Lothal
+
+                                ;
+Energy Conversion Lab;
+                                        Health:
+                                    25
+                                ;
+Bazine Netal, Spy for the First Order;
+                                    When Played: Look at an opponent's hand. You may discard 1 of those cards. If you do, that player draws a card.;2
+Covert Strength;
+                                        Cost:
+                                    1
+                                ;1
+Admiral Akbar, Brilliant Strategist;
+                                    Restore 1 (When this unit attacks, heal 1 damage from your base.);3
+Fennec Shand, Honoring the Deal;
+                                    Saboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.);5
+Jabba The Hutt, Cunning Daimyo;
+                                    Each Trick event you play costs 1 less.;4
+Mon Mothma, Voice of the Rebellion;
+                                    When Played: Search the top 5 cards of your deck for a Rebel card, reveal it, and draw it. (Put the other cards on the bottom of your deck in a random order.)
+                                ;2
+Redemption, Medical Frigate;
+                                    Sentinel (Units in this arena can't attack your non-Sentinel units or your base.);8
+Snowtrooper Lieutenant;
+                                        Cost:
+                                    2
+                                ;2
+Kragan Gorr, Warbird Captain;
+                                    When an enemy unit attacks your base: Give a Shield token to a friendly unit in the same arena as the attacker.
+                                ;6
+Guerilla Attack Pod;
+                                        Cost:
+                                    6
+                                ;6
+Protector;
+                                        Cost:
+                                    1
+                                ;1
+Fett's Firespray, Pursuing the Bounty;
+                                    When Played: If you control Boba Fett or Jango Fett (as a leader or unit), ready this unit.;6
+Commission;
+                                        Cost:
+                                    1
+                                ;1
+Chopper Base;
+                                                Atollon
+
+                                ;
+Doctor Aphra, Rapacious Archaeologist;
+                                    While there are 5 or more different costs among cards in your discard pile, this unit gets +3/+0.;5
+Vambrace Grappleshot;
+                                        Cost:
+                                    2
+                                ;2
+Unexpected Escape;
+                                        Cost:
+                                    1
+                                ;1
+Echo Base Defender;
+                                        Cost:
+                                    3
+                                ;3
+Sabine Wren, Explosives Artist;
+                                    While there are at least 3 aspects among other friendly units, this unit can't be attacked (unless she gains Sentinel).;2
+Bossk, Deadly Stalker;
+                                    Ambush (After you play this unit, he may ready and attack an enemy unit.);5
+General Krell, Heartless Tactician;
+                                    Each other friendly unit gains: "When Defeated: You may draw a card."
+                                ;5
+Moment of Glory;
+                                        Cost:
+                                    3
+                                ;3
+Doctor Evazan, Wanted on Twelve Systems;
+                                    Shielded (When you play this unit, give a Shield token to it.);2
+Luke's Lightsaber;
+                                        Cost:
+                                    2
+                                ;2
+Lando Calrissian, With Impeccable Taste;
+                                    Action: Play a card using Smuggle. It costs 2 less. Defeat a resource you own and control. Use this ability only once each round.
+                                ;4
+Command Center;
+                                                Death Star
+
+                                ;
+Maximum Firepower;
+                                        Cost:
+                                    4
+                                ;4
+Academy Defense Walker;
+                                        Cost:
+                                    6
+                                ;6
+Gideon's Light Cruiser, Dark Troopers' Station;
+                                    Overwhelm (When attacking an enemy unit, deal excess damage to the opponent's base.);8
+Vigilance;
+                                        Cost:
+                                    4
+                                ;4
+Viper Probe Droid;
+                                        Cost:
+                                    2
+                                ;2
+Guavian Antagonizer;
+                                        Cost:
+                                    1
+                                ;1
+Chimaera, Flagship of the Seventh Fleet;
+                                    Shielded (When you play this unit, give a Shield token to it.);8
+Mace Windu, Party Crasher;
+                                    Ambush;7
+Crosshair, Following Orders;
+                                    Action [2]: This unit gets +1/+0 for this phase.;4
+Lom Pyke, Dealer in Truths;
+                                    On Attack: You may give a Shield token to an enemy unit. If you do, give a Shield token to a friendly unit.
+                                ;4
+Punishing One, Dengar's Jumpmaster;
+                                    When an upgraded enemy unit is defeated: You may ready this unit. Use this ability only once each round.
+                                ;3
+Inferno Four, Unforgetting;
+                                    When Played/When Defeated: Look at the top 2 cards of your deck. Put any number of them on the bottom of your deck and the rest on top in any order.
+                                ;2
+Fell the Dragon;
+                                        Cost:
+                                    4
+                                ;4
+Bright Hope, The Last Transport;
+                                    Sentinel (Units in this arena can't attack your non-Sentinel units or your base.);4
+Vanguard Ace;
+                                        Cost:
+                                    2
+                                ;2
+System Patrol Craft;
+                                        Cost:
+                                    4
+                                ;4
+Attack Pattern Delta;
+                                        Cost:
+                                    3
+                                ;3
+Fighters For Freedom;
+                                        Cost:
+                                    3
+                                ;3
+The Mandalorian, Sworn to the Creed;
+                                    When you play an upgrade: You may exhaust this leader. If you do, exhaust an enemy unit with 4 or less remaining HP.
+                                ;6
+Hunter of the Haxion Brood;
+                                        Cost:
+                                    3
+                                ;3
+Echo Base;
+                                                Hoth
+
+                                ;
+Galactic Ambition;
+                                        Cost:
+                                    7
+                                ;7
+Altering the Deal;
+                                        Cost:
+                                    1
+                                ;1
+2-1B Surgical Droid;
+                                        Cost:
+                                    1
+                                ;1
+Take Captive;
+                                        Cost:
+                                    3
+                                ;3
+Count Dooku, Darth Tyrannus;
+                                    Shielded (When you play this unit, give him a Shield token.);7
+Cell Block Guard;
+                                        Cost:
+                                    3
+                                ;3
+No Good to Me Dead;
+                                        Cost:
+                                    2
+                                ;2
+Synara San, Loyal to Kragan;
+                                    Grit;4
+Ephant Mon, Head of Security;
+                                    On Attack: Choose an enemy non-leader unit that attacked your base this phase. A friendly unit in the same arena captures that unit. (Put the captured unit facedown under the friendly unit until the friendly unit leaves play.)
+                                ;5
+Heroic Sacrifice;
+                                        Cost:
+                                    1
+                                ;1
+Trandoshan Hunters;
+                                        Cost:
+                                    5
+                                ;5
+Xanadu Blood, Cad Bane's Reward;
+                                    Raid 2;6
+Jango Fett, Renowned Bounty Hunter;
+                                    While attacking a unit with a Bounty, this unit gets +3/+0 and gains Overwhelm.;4
+Scout Bike Pursuer;
+                                        Cost:
+                                    2
+                                ;2
+Rival's Fall;
+                                        Cost:
+                                    6
+                                ;6
+Ezra Bridger, Resourceful Troublemaker;
+                                    When this unit completes an attack: Look at the top card of your deck. You may play it, discard it, or leave it on top of your deck.
+                                ;3
+Rugged Survivors;
+                                        Cost:
+                                    5
+                                ;5
+Command;
+                                        Cost:
+                                    4
+                                ;4
+Lurking TIE Phantom;
+                                        Cost:
+                                    3
+                                ;3
+Tarfful, Kashyyyk Chieftain;
+                                    Restore 2;7
+Red Three, Unstoppable;
+                                    Raid 1;3
+Wedge Antilles, Star of the Rebellion;
+                                    Each friendly Vehicle unit gets +1/+1 and gains Ambush. (After you play that unit, it may ready and attack an enemy unit.)
+                                ;5
+Tarkintown;
+                                        Health:
+                                    25
+                                ;
+Greef Karga, Affadable Commissioner;
+                                    When Played: Search the top 5 cards of your deck for an upgrade, reveal it, and draw it. (Put the other cards on the bottom of your deck in a random order.)
+                                ;2
+Coronet City;
+                                                Corellia
+
+                                ;
+Distant Patroller;
+                                        Cost:
+                                    2
+                                ;2
+Choose Sides;
+                                        Cost:
+                                    7
+                                ;7
+AT-AT Suppressor;
+                                        Cost:
+                                    8
+                                ;8
+Clan Saxon Gauntlet;
+                                        Cost:
+                                    6
+                                ;6
+I Had No Choice;
+                                        Cost:
+                                    7
+                                ;7
+General Veers, Blizzard Force Commander;
+                                    Other friendly Imperial units get +1/+1.
+                                ;3
+Karabast;
+                                        Cost:
+                                    2
+                                ;2
+R2-D2;
+                                    When Played/On Attack: Look at the top card of your deck. You may put it on the bottom of your deck. (Otherwise, leave it on top of your deck.)
+                                ;1
+Pirate Battle Tank;
+                                        Cost:
+                                    6
+                                ;6
+Heroic Renegade;
+                                        Cost:
+                                    2
+                                ;2
+Dryden Vos, Offering No Escape;
+                                    Shielded;7
+Millennium Falcon Piece of Junk;
+                                    This unit enters play ready.;3
+Hunting Nexu;
+                                        Cost:
+                                    4
+                                ;4
+Vanguard Infantry;
+                                        Cost:
+                                    1
+                                ;1
+Outland TIE Vanguard;
+                                        Cost:
+                                    2
+                                ;2
+Catacombs of Cadera;
+                                                Jedha
+
+                                ;
+K-2SO;
+                                    Overwhelm;4
+Cargo Juggernaut;
+                                        Cost:
+                                    6
+                                ;6
+Death Trooper;
+                                        Cost:
+                                    3
+                                ;3
+Rogue Squadron Skirmisher;
+                                        Cost:
+                                    6
+                                ;6
+The Mandalorian's Rifle;
+                                        Cost:
+                                    3
+                                ;3
+Avenger, Hunting Star Destroyer;
+                                    When Played/On Attack: An opponent chooses a non-leader unit they control. Defeat that unit.
+                                ;9
+Hylobon Enforcer;
+                                        Cost:
+                                    1
+                                ;1
+Guardian of the Whills;
+                                        Cost:
+                                    2
+                                ;2
+4-L0M, Bounty Hunter for Hire;
+                                    Ambush (After you play this unit, it may ready and attack an enemy unit.);4
+Krrsantan, Muscle for Hire;
+                                    When Played: If an enemy unit has a Bounty, you may ready this unit.;5
+Dengar, The Demolisher;
+                                    When you play an upgrade on a unit: You may deal 1 damage to that unit.
+                                ;1
+Grey Squadron Y-Wing;
+                                        Cost:
+                                    2
+                                ;2
+First Light, Headquarters of the Crimson Dawn;
+                                    Grit;7
+Chopper, Metal Menace;
+                                    While you control another Spectre unit, this unit gains Raid 1.;1
+Repair;
+                                        Cost:
+                                    1
+                                ;1
+For A Cause I Believe In;
+                                        Cost:
+                                    3
+                                ;3
+Maul, Shadow Collective Visionary;
+                                    Ambush, Overwhelm;7
+Valiant Assault Ship;
+                                        Cost:
+                                    4
+                                ;4
+Triple Dark Raid;
+                                        Cost:
+                                    3
+                                ;3
+Alliance X-Wing;
+                                        Power:
+                                    2
+                                ;2
+Colonel Yularen, ISB Director;
+                                    When you play a [command] unit (including this one): Heal 1 damage from your base.
+                                ;2
+Rogue Operative;
+                                        Cost:
+                                    3
+                                ;3
+Liberated Slaves;
+                                        Power:
+                                    3
+                                ;3
+TIE Advanced;
+                                        Cost:
+                                    4
+                                ;4
+Remnant Reserves;
+                                        Cost:
+                                    4
+                                ;4
+It Binds All Things;
+                                        Cost:
+                                    2
+                                ;2
+Zeb Orrelios, Headstrong Warrior;
+                                    When this unit completes an attack: If the defender was defeated, you may deal 4 damage to a ground unit.
+                                ;5
+Smuggler's Aid;
+                                        Cost:
+                                    1
+                                ;1
+Del Meeko, Providing Overwatch;
+                                    Restore 1 (Whe this unit attacks, heal 1 damage from your base.);3
+Kylo Ren, Killing the Past;
+                                    While playing this unit, ignore his [villainy] aspect penalty if you control Rey.;6
+Resilient;
+                                        Bonus Power:
+                                    0
+                                ;1
+Power of the Dark Side;
+                                        Cost:
+                                    3
+                                ;3
+Doctor Pershing, Experimenting with Life;
+                                        Cost:
+                                    2
+                                ;2
+Regional Governer;
+                                        Cost:
+                                    2
+                                ;2
+Home One, Alliance Flagship;
+                                    Restore 2;8
+Supreme Leader Snoke, Shadow Ruler;
+                                    Each enemy non-leader unit gets -2/-2.
+                                ;8
+C-3PO;
+                                    When Played/On Attack: Choose a number, then look at the top card of your deck. If its cost is the chosen number, you may reveal and draw it. (Otherwise, leave it on top of your deck.)
+                                ;2
+Make An Opening;
+                                        Cost:
+                                    3
+                                ;3
+Leia Organa, Defiant Princess;
+                                    When Played: Either ready a resource or exhaust a unit.
+                                ;2
+Slaver's Freighter;
+                                        Cost:
+                                    5
+                                ;5
+Frontline Shuttle;
+                                        Cost:
+                                    2
+                                ;2
+Phase-III Dark Trooper;
+                                        Cost:
+                                    3
+                                ;3
+DJ, Blantant Thief;
+                                    Smuggle [7 [cunning] [cunning]];3
+Kestro City;
+                                                Vardos
+
+                                ;
+Desperado Freighter;
+                                        Power:
+                                    5
+                                ;5
+Pre Vizsla, Power Hungry;
+                                    When Played/On Attack: You may pay the cost of an upgrade attached to another non-Vehicle unit. If you do, take control of that upgrade and attach it to this unit, if able. If it can't attach to this unit, defeat it instead.
+                                ;7
+Cartel Turncoat;
+                                        Cost:
+                                    1
+                                ;1
+Black One, Scourge of Starkiller Base;
+                                    When Played/When Defeated: You may discard your hand. If you do, draw 3 cards.
+                                ;6
+Kylo's TIE Silencer, Ruthlessly Efficient;
+                                    Action: If this unit was discarded from your hand or deck this phase, play it from your discard pile (paying its cost).
+                                ;2
+Devotion;
+                                        Cost:
+                                    2
+                                ;2
+Protector of the Throne;
+                                        Cost:
+                                    3
+                                ;3
+This Is The Way;
+                                        Cost:
+                                    2
+                                ;2
+Saw Gerrera, Extremist;
+                                    As an additional cost for each opponent to play an event, they must deal 2 damage to their base.
+                                ;4
+Auzituck Liberator Gunship;
+                                        Cost:
+                                    4
+                                ;4
+Finalizer, Might of the First Order;
+                                    Overwhelm;11
+Vanquish;
+                                        Cost:
+                                    5
+                                ;5
+Lieutenant Childsen;
+                                    Sentinel (Units in this arena can't attack your non-Sentinel units or your base.);4
+AT-ST;
+                                        Cost:
+                                    6
+                                ;6
+Rebel Assault;
+                                        Cost:
+                                    1
+                                ;1
+Cloud City Wing Guard;
+                                        Cost:
+                                    3
+                                ;3
+Pyke Sentinel;
+                                        Cost:
+                                    2
+                                ;2
+Jedha City;
+                                        Health:
+                                    25
+                                ;
+Search Your Feelings;
+                                        Cost:
+                                    4
+                                ;4
+Zuckuss, Bounty Hunter for Hire;
+                                    Saboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.);5
+General Tagge, Concerned Commander;
+                                    When Played: Give an Experience token to each of up to 3 Trooper units.
+                                ;2
+Rebel Pathfinder;
+                                        Cost:
+                                    2
+                                ;2
+Warbird Stowaway;
+                                        Cost:
+                                    3
+                                ;3
+Grogu, Irresistible;
+                                    Action [tap]: Exhaust an enemy unit.
+                                ;2
+Brutal Traditions;
+                                        Cost:
+                                    2
+                                ;2
+Lothal Insurgent;
+                                        Cost:
+                                    2
+                                ;2
+Ruthlessness;
+                                        Cost:
+                                    1
+                                ;1
+Wanted Insurgents;
+                                        Cost:
+                                    3
+                                ;3
+Death Watch Loyalist;
+                                        Cost:
+                                    3
+                                ;3
+Wolffe, Suspicious Veteran;
+                                    Saboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.);2
+Takedown;
+                                        Cost:
+                                    4
+                                ;4
+Jetpack;
+                                        Cost:
+                                    2
+                                ;2
+Electrostaff;
+                                        Cost:
+                                    2
+                                ;2
+Rallying Cry;
+                                        Cost:
+                                    3
+                                ;3
+Patrolling V-Wing;
+                                        Cost:
+                                    2
+                                ;2
+Admiral Piett, Captain of the Executor;
+                                    Each friendly non-leader unit that costs 6 or more gains Ambush. (After you play that unit, it may ready and attack an enemy unit.)
+                                ;2
+Bounty Guild Initiate;
+                                        Cost:
+                                    1
+                                ;1
+Palpatine's Return;
+                                        Cost:
+                                    6
+                                ;6
+Mercenary Company;
+                                        Cost:
+                                    6
+                                ;6
+U-Wing Reinforcement;
+                                        Cost:
+                                    7
+                                ;7
+The Client, Dictated by Discretion;
+                                    Shielded;3
+Tech, Source of Insight;
+                                    Each friendly resource gains Smuggle. The gained Smuggle cost is that card's cost plus 2 and its aspect icons.;3
+Gideon Hask, Ruthless Loyalist;
+                                    When an enemy unit is defeated: Give an Experience token to a friendly unit.
+                                ;5
+Cunning;
+                                        Cost:
+                                    4
+                                ;4
+Chewbacca, Loyal Companion;
+                                    Sentinel (Units in this arena can't attack your non-Sentinel units or your base.);5
+Seasoned Shoretrooper;
+                                        Cost:
+                                    2
+                                ;2
+97th Legion, Keeping the Peace on Sullust;
+                                    This unit gets +1/+1 for each resource you control.
+                                ;7
+Calculated Lethality;
+                                        Cost:
+                                    4
+                                ;4
+Coruscant Dissident;
+                                        Cost:
+                                    3
+                                ;3
+Fleet Lieutenant;
+                                        Cost:
+                                    3
+                                ;3
+Adelphi Patrol Wing;
+                                        Cost:
+                                    5
+                                ;5
+Remnant Science Facility;
+                                                Nevarro
+
+                                ;
+Headhunting;
+                                        Cost:
+                                    2
+                                ;2
+Give In to Your Anger;
+                                        Cost:
+                                    1
+                                ;1
+L3-37, Droid Revolutionary;
+                                    When Played: You may rescue a captured card. If you don't, give a Shield token to this unit.;2
+Superlaser Blast;
+                                        Cost:
+                                    8
+                                ;8
+Wilderness Fighter;
+                                        Cost:
+                                    3
+                                ;3
+Greedo, Slow on the Draw;
+                                    When Defeated: You may discard a card from your deck. If it's not a unit, deal 2 damage to a ground unit.
+                                ;1
+I am your Father;
+                                        Cost:
+                                    3
+                                ;3
+Enticing Reward;
+                                        Cost:
+                                    1
+                                ;1
+Academy Training;
+                                        Bonus Power:
+                                    2
+                                ;2
+Ardent Sympathizer;
+                                        Cost:
+                                    3
+                                ;3
+Entrenched;
+                                        Cost:
+                                    2
+                                ;2
+Aggression;
+                                        Cost:
+                                    4
+                                ;4
+You're my only hope;
+                                        Cost:
+                                    3
+                                ;3
+Consortium StarViper;
+                                        Cost:
+                                    3
+                                ;3
+Rose Tico, Dedicated to the Cause;
+                                    Shielded (When you play this unit, give a Shield token to her.);4
+Lady Proxima, White Worm Matriarch;
+                                    When you play another Underworld card: You may deal 1 damage to a base.
+                                ;1
+Tactical Advantage;
+                                        Cost:
+                                    1
+                                ;1
+Death Star Stormtrooper;
+                                        Power:
+                                    3
+                                ;1
+IG-11, I cannot be captured;
+                                    If this unit would be captured, defeat him and deal 3 damage to each enemy ground unit instead.;5
+Clan Wren Rescuer;
+                                        Cost:
+                                    2
+                                ;2
+Wing Leader;
+                                        Cost:
+                                    3
+                                ;3
+Reinforcement Walker;
+                                        Cost:
+                                    8
+                                ;8
+Wookiee Warrior;
+                                        Cost:
+                                    4
+                                ;4
+Emperor's Royal Guard;
+                                        Cost:
+                                    3
+                                ;3
+The Marauder, Shuttling the Bad Batch;
+                                    Ambush;5
+Clone Deserter;
+                                        Cost:
+                                    1
+                                ;1
+Lando Calrissian, Responsible Businessman;
+                                    Saboteur (When this unit attacks, ignore Sentinel and defeat the defenders' Shields.);6
+Qi'ra, Playing her Part;
+                                    When Played: Look at an opponent's hand, then name a card. While this unit is in play, each card with that name costs 3 more for your opponent to play.
+                                ;4
+Enfys Nest, Marauder;
+                                    Ambush (After you play this unit, it may ready and attack an enemy unit.);6
+Omega, Part of the Squad;
+                                    Ignore the aspect penalty on the first Clone unit you play each round.;2
+Baze Malbus, Temple Guardian;
+                                    Grit (This unit gets +1/+0 for each damage on him.);4
+Hardpoint Heavy Blaster;
+                                        Cost:
+                                    2
+                                ;2
+Ketsu Onyo, Old Friend;
+                                    Saboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.);2
+Principled Outlaw;
+                                        Cost:
+                                    4
+                                ;4
+Mandalorian Warrior;
+                                        Cost:
+                                    3
+                                ;3
+Battle Droid;
+                                        Power:
+                                    1
+                                ;0
+Jawa Scavenger;
+                                        Cost:
+                                    1
+                                ;1
+Maz Kanata's Castle;
+                                                Takodana
+
+                                ;
+Rey, Keeping the Past;
+                                    While playing this unit, ignore her [heroism] aspect penalty if you control Kylo Ren.;5
+Plo Koon, Koh-To-Yah!;
+                                    Ambush (When you play this unit, it may ready and attack an enemy unit.);5
+Wanted;
+                                        Cost:
+                                    0
+                                ;0
+Homestead Militia;
+                                        Cost:
+                                    3
+                                ;3
+No Bargain;
+                                        Cost:
+                                    3
+                                ;3
+Clone Trooper;
+                                        Power:
+                                    2
+                                ;0
+Kuil, I have spoken;
+                                    Restore 1 (When this unit attacks, heal 1 damage from your base.);2
+Benthic "Two Tubes";
+                                    On Attack: Another friendly [aggression] unit gains Raid 2 for this phase. (It gets +2/+0 while attacking.)
+                                ;1
+Disabling Fang Fighter;
+                                        Cost:
+                                    3
+                                ;3
+Superlaser Technician;
+                                        Cost:
+                                    3
+                                ;3
+Moment of Peace;
+                                        Cost:
+                                    1
+                                ;1
+Admiral Ozzel, Overconfident;
+                                    Action [[tap]]: Play an Imperial unit from your hand (paying its cost). It enters play ready. Each opponent may ready a unit.
+                                ;2
+Underworld Thug;
+                                        Power:
+                                    2
+                                ;2
+Consolidation of Power;
+                                        Cost:
+                                    6
+                                ;6
+Fennec Shand, Loyal Sharpshooter;
+                                    Ambush (When you play this unit, it may ready and attack an enemy unit.);7
+General Dodonna, Massassi Group Commander;
+                                    Other friendly Rebel units get +1/+1.
+                                ;4
+Covetous Rivals;
+                                        Cost:
+                                    6
+                                ;6
+Prepare for Takeoff;
+                                        Cost:
+                                    2
+                                ;2
+Mercenary Gunship;
+                                        Cost:
+                                    2
+                                ;2
+Nite Owl Skirmisher;
+                                        Cost:
+                                    3
+                                ;3
+General Rieekan, Defensive Strategist;
+                                    When Played/On Attack: Choose a friendly unit. If it has Sentinel, give an Experience token to it. Otherwise, it gains Sentinel for this phase.
+                                ;6
+Salacious Crumb, Obnoxious Pet;
+                                    When Played: Heal 1 damage from your base.;1
+Han Solo;
+                                    Ambush (After you play this unit, he may ready and attack an enemy unit.);7
+Maz Kanata, Pirate Queen;
+                                    When you play another unit: Give an Experience token to this unit.
+                                ;1
+Mining Guid TIE Fighter;
+                                        Cost:
+                                    1
+                                ;1
+Boba Fett's Armor;
+                                        Cost:
+                                    2
+                                ;2
+Zorii Bliss, Valiant Smuggler;
+                                    On Attack: Draw a card. At the start of the regroup phase, discard a card from your hand.;5
+Aurra Sing, Crackshot Sniper;
+                                    Overwhelm (When attacking an enemy unit, deal excess damage to the opponent's base.);7
+The Armorer, Survival is Strength;
+                                    When Played: Give a Shield token to each of up to 3 Mandalorian units.
+                                ;5
+Escort Skiff;
+                                        Cost:
+                                    4
+                                ;4
+Street Gang Recruiter;
+                                        Cost:
+                                    5
+                                ;5
+Traitorous;
+                                        Cost:
+                                    5
+                                ;5
+Nevarro City;
+                                                Nevarro
+
+                                ;
+Remote Village;
+                                                Sorgan
+
+                                ;
+Star Wing Scout;
+                                        Cost:
+                                    3
+                                ;3
+Concord Dawn Interceptors;
+                                        Cost:
+                                    3
+                                ;3
+Krayt Dragon;
+                                        Cost:
+                                    9
+                                ;9
+Cantina Braggart;
+                                        Cost:
+                                    1
+                                ;1
+Inspiring Mentor;
+                                        Cost:
+                                    2
+                                ;2
+Volunteer Soldier;
+                                        Cost:
+                                    3
+                                ;3
+Bamboozle;
+                                        Cost:
+                                    2
+                                ;2
+Grand Moff Tarkin;
+                                    When Played: Search the top 5 cards of your deck for up to 2 Imperial cards, reveal them, and draw them. (Put the other cards on the bottom of your deck in a random order.)
+                                ;4
+Resupply;
+                                        Cost:
+                                    3
+                                ;3
+Unrefusable Offer;
+                                        Cost:
+                                    2
+                                ;2
+Freetown Backup;
+                                        Cost:
+                                    2
+                                ;2
+Val, Loyal to the End;
+                                    Bounty - Deal 3 damage to a unit.;2
+Millennium Falcon, Lando's Pride;
+                                    If you play this unit from your hand, it gains Ambush.;6
+Regional Sympathizers;
+                                        Cost:
+                                    4
+                                ;4
+Koska Reeves, Loyal Nite Owl;
+                                    On Attack: If this unit is upgraded, you may deal 2 damage to a ground unit.
+                                ;4
+Crafty Smuggler;
+                                        Cost:
+                                    2
+                                ;2
+Death Watch Hideout;
+                                                Concordia
+
+                                ;
+Agent Kallus, Seeking the Rebels;
+                                    Ambush (After you play this unit, he may ready and attack an enemy unit.);5
+Gentle Giant;
+                                        Cost:
+                                    6
+                                ;6
+Recruit;
+                                        Cost:
+                                    1
+                                ;1
+Rich Reward;
+                                        Cost:
+                                    1
+                                ;1
+Wampa;
+                                        Cost:
+                                    4
+                                ;4
+Village Protectors;
+                                        Cost:
+                                    3
+                                ;3
+Guild Target;
+                                        Cost:
+                                    0
+                                ;0
+Jedha Agitator;
+                                        Cost:
+                                    2
+                                ;2
+Strike True;
+                                        Cost:
+                                    3
+                                ;3
+Rukh, Thrawn's Assassin;
+                                    Shielded (When you play this unit, give a Shield token to it.);5
+Spark of Hope;
+                                        Cost:
+                                    2
+                                ;2
+Frontier AT-RT;
+                                        Cost:
+                                    4
+                                ;4
+Sundari Peacekeeper;
+                                        Cost:
+                                    3
+                                ;3
+Spark of Rebellion;
+                                        Cost:
+                                    2
+                                ;2
+Hutt's Henchmen;
+                                        Cost:
+                                    4
+                                ;4
+Let the Wookiee Win;
+                                        Cost:
+                                    2
+                                ;2
+Poe Dameron, Quick to Improvise;
+                                    On Attack: Discard up to 3 cards from your hand. For each card discarded this way, choose a different option:;5
+Snowspeeder;
+                                        Cost:
+                                    5
+                                ;5
+Outer Rim Headhunter;
+                                        Cost:
+                                    2
+                                ;2
+Spice Mines;
+                                                Kessel
+
+                                ;
+The Mandalorian, Where I go, He Goes;
+                                    Sentinel;6
+Occupier Siege Tank;
+                                        Cost:
+                                    5
+                                ;5
+Steadfast Battalion;
+                                        Cost:
+                                    5
+                                ;5
+Daring Raid;
+                                        Cost:
+                                    1
+                                ;1
+Razor Crest, Reliable Gunship;
+                                    Restore 2 (When this unit attacks, heal 2 damage from your base.);4
+Echo, Restored;
+                                    Restore 2;4
+Correlian Freighter;
+                                        Cost:
+                                    5
+                                ;5
+Gladiator Star Destroyer;
+                                        Cost:
+                                    6
+                                ;6
+Hotshot DL-44 Blaster;
+                                        Cost:
+                                    1
+                                ;1
+Bodhi Rook, Imperial Defector;
+                                    When Played: Look at an opponent's hand and discard a non-unit card from it.
+                                ;3
+Twin Pod Cloud Car;
+                                        Cost:
+                                    3
+                                ;3
+Rule with Respect;
+                                        Cost:
+                                    4
+                                ;4
+Wrecker, BOOM!;
+                                    Overwhelm;6
+Spare the Target;
+                                        Cost:
+                                    3
+                                ;3
+Partisan Insurgent;
+                                        Cost:
+                                    2
+                                ;2
+Medal Ceremony;
+                                        Cost:
+                                    0
+                                ;0
+Pirated Starfighter;
+                                        Cost:
+                                    2
+                                ;2
+Jabba's Palace;
+                                                Tatooine
+
+                                ;
+Infiltrator's Skill;
+                                        Cost:
+                                    1
+                                ;1
+Chewbacca, Pykesbane;
+                                    Grit;8
+Arquitens Assault Cruiser;
+                                        Cost:
+                                    8
+                                ;8
+Confiscate;
+                                        Cost:
+                                    1
+                                ;1
+Cantina Bouncer;
+                                        Cost:
+                                    5
+                                ;5
+Modded Cohort;
+                                        Cost:
+                                    4
+                                ;4
+Ahsoka Tano, Snips;
+                                    Coordinate - This unit gets +2/+0.
+                                ;5
+A New Adventure;
+                                        Cost:
+                                    2
+                                ;2
+Enterprising Lackeys;
+                                        Cost:
+                                    4
+                                ;4
+Heroic Resolve;
+                                        Cost:
+                                    1
+                                ;1
+General Grievous, General of the Droid Armies;
+                                    On Attack: You may give a Droid unit +1/+0 and Sentinel for this phase.
+                                ;6
+Swoop Racer;
+                                        Power:
+                                    4
+                                ;3
+Force Throw;
+                                        Cost:
+                                    1
+                                ;1
+332nd Stalwart;
+                                        Cost:
+                                    1
+                                ;1
+Second Chance;
+                                        Cost:
+                                    4
+                                ;4
+Restock;
+                                        Cost:
+                                    1
+                                ;1
+Wild Rancor;
+                                        Cost:
+                                    6
+                                ;6
+Anakin Skywalker, Maverick Mentor;
+                                    Coordinate - On Attack: Draw a card. (Gain this ability while you control 3 or more units.)
+                                ;5
+Cripple Authority;
+                                        Cost:
+                                    2
+                                ;2
+Gamorrean Guards;
+                                        Cost:
+                                    4
+                                ;4
+Precision Fire;
+                                        Cost:
+                                    1
+                                ;1
+Midnight Repairs;
+                                        Cost:
+                                    2
+                                ;2
+Warzone Lieutenant;
+                                        Power:
+                                    2
+                                ;1
+Battle Droid Escort;
+                                        Cost:
+                                    3
+                                ;3
+Experience;
+                                        Bonus Health:
+                                    1
+                                ;0
+Captain Rex, Lead by Example;
+                                    When Played: Create 2 Clone Trooper tokens.
+                                ;6
+Criminal Muscle;
+                                        Cost:
+                                    1
+                                ;1
+Evidence of the Crime;
+                                        Cost:
+                                    3
+                                ;3
+Coruscant Guard;
+                                        Cost:
+                                    2
+                                ;2
+Strafing Gunship;
+                                        Cost:
+                                    4
+                                ;4
+The Chaos of War;
+                                        Cost:
+                                    3
+                                ;3
+Keep Fighting;
+                                        Cost:
+                                    2
+                                ;2
+Moisture Farmer;
+                                        Cost:
+                                    1
+                                ;1
+Collections Starhopper;
+                                        Cost:
+                                    2
+                                ;2
+Shield;
+                                                Armor
+
+                                ;0
+General's Guardian;
+                                        Cost:
+                                    4
+                                ;4
+Hailfire Tank;
+                                        Cost:
+                                    8
+                                ;8
+Supercommando Squad;
+                                        Cost:
+                                    5
+                                ;5
+Cloud-Rider;
+                                        Cost:
+                                    2
+                                ;2
+Reckless Gunslinger;
+                                        Cost:
+                                    1
+                                ;1
+Syndicate Lackeys;
+                                        Cost:
+                                    5
+                                ;5
+Separatist Commando;
+                                        Cost:
+                                    2
+                                ;2
+Follower of The Way;
+                                        Cost:
+                                    2
+                                ;2
+Privateer Crew;
+                                        Cost:
+                                    2
+                                ;2
+Gar Saxon, Viceroy of Mandalore;
+                                    Each friendly upgraded unit gets +1/+0 and gains "When Defeated: You may return an upgrade that was attached to this unit to its owner's hand."
+                                ;6
+Power Failure;
+                                        Cost:
+                                    2
+                                ;2
+Cassian Andor, Rebellions are built on Hope;
+                                    Smuggle [5 [aggression] [heroism]] (If this card is a resource, you may play him for his smuggle cost. Replace it with the top card of your deck.);3
+Fugitive Wookiee;
+                                        Cost:
+                                    2
+                                ;2
+Scanning Officer;
+                                        Cost:
+                                    2
+                                ;2
+Rickety Quadjumper;
+                                        Cost:
+                                    2
+                                ;2
+Qi'ra, I Alone Survived;
+                                    Grit (This unit gets +1/+0 for each damage on it);5
+Smuggling Compartment;
+                                        Cost:
+                                    1
+                                ;1
+Stolen Landspeeder;
+                                        Cost:
+                                    1
+                                ;1
+Mission Briefing;
+                                        Cost:
+                                    3
+                                ;3
+Frontier Trader;
+                                        Cost:
+                                    3
+                                ;3
+Privateer Scyk;
+                                        Cost:
+                                    2
+                                ;2
+Embo, Stoic and Resolute;
+                                    When this unit completes an attack: If the defender was defeated, heal up to 2 damage from a unit.
+                                ;3
+Finn, This is a Rescue;
+                                    On Attack: You may defeat a friendly upgrade on a unit. If you do, give a Shield token to that unit.
+                                ;5
+Cobb Vanth, The Marshal;
+                                    When Defeated: Search the top 10 cards of your deck for a unit that costs 2 or less and discard it. For this phase, you may play that card from your discard pile for free.
+                                ;3
+Snapshot Reflexes;
+                                        Cost:
+                                    1
+                                ;1
+House Kast Soldier;
+                                        Cost:
+                                    2
+                                ;2
+Smuggler's Starfighter;
+                                        Cost:
+                                    3
+                                ;3
+Open Fire;
+                                        Cost:
+                                    3
+                                ;3
+Jabba the Hutt, His High Exaltedness;
+                                    When Deployed: Another friendly unit captures an enemy non-leader unit.;7
+HWK-290 Freighter;
+                                        Power:
+                                    2
+                                ;3
+Rey, More Than A Scavenger;
+                                    Restore 3 (When this unit attacks, heal 3 damage from your base.);6
+Outlaw Corona;
+                                        Cost:
+                                    3
+                                ;3
+Migs Mayfeld, Triggerman;
+                                    When a player discards a card from their hand: You may deal 2 damage to a unit or base. Use this ability only once each round.
+                                ;2
+Chain Code Collector;
+                                        Cost:
+                                    4
+                                ;4
+Jabba's Rancor, Pateesa;
+                                    If you control Jabba the Hutt (as a leader or unit), this unit costs 1 less to play.;8
+Rhokai Gunship;
+                                        Cost:
+                                    2
+                                ;2
+Tobias Beckett, I Trust No One;
+                                    When you play a non-unit card: You may exhaust a unit that costs the same as or less than the card you played. Use this ability only once each round.;4
+Sugi, Hired Guardian;
+                                    While an enemy unit is upgraded, this unit gains Sentinel.;4
+Unlicensed Headhunter;
+                                        Cost:
+                                    2
+                                ;2
+Resourceful Pursuers;
+                                        Cost:
+                                    5
+                                ;5
+Frozen in Carbonite;
+                                        Cost:
+                                    3
+                                ;3
+Clan Challengers;
+                                        Cost:
+                                    5
+                                ;5
+Look the Other Way;
+                                        Cost:
+                                    0
+                                ;0
+Bo-Katan Kryze, Fighting for Mandalore;
+                                    When Defeated: For each player with 15 or more damage on their base, draw a card.
+                                ;2
